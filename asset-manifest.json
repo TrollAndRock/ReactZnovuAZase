@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrollAndRock/ReactCviko.git/static/css/main.fd5bea99.css",
+    "main.js": "/TrollAndRock/ReactCviko.git/static/js/main.f7642776.js",
+    "index.html": "/TrollAndRock/ReactCviko.git/index.html",
+    "main.fd5bea99.css.map": "/TrollAndRock/ReactCviko.git/static/css/main.fd5bea99.css.map",
+    "main.f7642776.js.map": "/TrollAndRock/ReactCviko.git/static/js/main.f7642776.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd5bea99.css",
+    "static/js/main.f7642776.js"
+  ]
+}
